@@ -109,7 +109,7 @@ M3垫片，厚度0.5mm，用于垫前面板和基板，背板及铜柱
 
  
 
-好了，这就是esp32gamepad的内容，高清演示视频见：
+好了，这就是esp32gamepad的内容，高清演示视频见：https://www.bilibili.com/video/BV1Rb4y1n7Ta/
 
 欢迎点赞和收藏
 
